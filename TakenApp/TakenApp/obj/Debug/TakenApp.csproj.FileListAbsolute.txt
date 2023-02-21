@@ -1,0 +1,12 @@
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\bin\Debug\TakenApp.exe.config
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\bin\Debug\TakenApp.exe
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\bin\Debug\TakenApp.pdb
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.csproj.AssemblyReference.cache
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.Form1.resources
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.Properties.Resources.resources
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.Task.resources
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.csproj.GenerateResource.cache
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.csproj.CoreCompileInputs.cache
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.exe
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.pdb
