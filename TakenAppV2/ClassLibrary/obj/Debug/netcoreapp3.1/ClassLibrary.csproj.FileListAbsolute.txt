@@ -1,0 +1,10 @@
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
