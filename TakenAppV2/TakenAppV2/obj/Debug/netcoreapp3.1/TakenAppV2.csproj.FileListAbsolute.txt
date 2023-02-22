@@ -1,0 +1,16 @@
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\bin\Debug\netcoreapp3.1\TakenAppV2.exe
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\bin\Debug\netcoreapp3.1\TakenAppV2.deps.json
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\bin\Debug\netcoreapp3.1\TakenAppV2.runtimeconfig.json
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\bin\Debug\netcoreapp3.1\TakenAppV2.runtimeconfig.dev.json
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\bin\Debug\netcoreapp3.1\TakenAppV2.dll
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\bin\Debug\netcoreapp3.1\TakenAppV2.pdb
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.csprojAssemblyReference.cache
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.Form1.resources
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.csproj.GenerateResource.cache
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.AssemblyInfoInputs.cache
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.AssemblyInfo.cs
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.csproj.CopyComplete
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.dll
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.pdb
