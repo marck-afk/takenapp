@@ -38,7 +38,8 @@ namespace API
                     subject = dr.GetString("Onderwerp"),
                     priorety = dr.GetInt32("Prioriteit"),
                     state = dr.GetString("Status"),
-                    date = dr.GetDateTime("Datum")
+                    startdate = dr.GetDateTime("Begindatum")
+                    enddate = dr.GetDateTime("Einddatum")
                 });
 
             }

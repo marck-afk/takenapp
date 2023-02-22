@@ -22,9 +22,9 @@ namespace API.Controllers
         }
 
         [HttpPost("Task")]
-        public void PostTask(string subject, int priority, string state)
+        public void PostTask(string subject, int priority, string state, DateTime start, DateTime end)
         {
-            database.InsertTask(subject, priority, state);
+            database.InsertTask(subject, priority, state, start, end);
         }
 
         [HttpDelete("Task")]
@@ -34,9 +34,9 @@ namespace API.Controllers
         }
 
         [HttpPut("Task")]
-        public void UpdateTask(int id, string subject, int priority, string state)
+        public void UpdateTask(int id, string subject, int priority, string state, DateTime start, DateTime end)
         {
-            database.UpdateTask(id, subject, priority, state);
+            database.UpdateTask(id, subject, priority, state, start, end);
         }
 
     }

@@ -10,6 +10,7 @@ namespace ClassLibrary
         public string subject { get; set; }
         public int priorety { get; set; }
         public string state { get; set; }
-        public DateTime date { get; set; }
+        public DateTime startdate { get; set; }
+        public DateTime enddate { get; set; }
     }
 }
