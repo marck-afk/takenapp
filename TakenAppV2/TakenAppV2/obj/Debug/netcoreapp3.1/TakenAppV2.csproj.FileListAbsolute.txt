@@ -25,4 +25,3 @@ C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp
 C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.pdb
 C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.genruntimeconfig.cache
 C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.Overview.resources
-C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenAppV2\TakenAppV2\obj\Debug\netcoreapp3.1\TakenAppV2.UCTask.resources
