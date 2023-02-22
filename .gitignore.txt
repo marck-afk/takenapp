@@ -1,0 +1,3 @@
+TakenAppV2/TakenAppV2/bin/Debug/*
+TakenAppV2/API/bin/Debug/*
+TakenAppV2/ClassLibrary/bin/Debug/*
