@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\TakenAppV2\\TakenAppV2.csproj": {}
+    "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\TakenAppV2\\TakenAppV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\API\\API.csproj": {
+    "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\marck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\API\\obj\\",
+        "projectPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Gideon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\marck\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gideon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,10 +30,9 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
@@ -42,7 +45,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -53,12 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.25, 3.1.25]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -67,22 +63,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\marck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\ClassLibrary\\obj\\",
+        "projectPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\Gideon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\marck\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gideon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -93,7 +93,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -105,7 +104,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -121,22 +119,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\TakenAppV2\\TakenAppV2.csproj": {
+    "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\TakenAppV2\\TakenAppV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\TakenAppV2\\TakenAppV2.csproj",
+        "projectUniqueName": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\TakenAppV2\\TakenAppV2.csproj",
         "projectName": "TakenAppV2",
-        "projectPath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\TakenAppV2\\TakenAppV2.csproj",
-        "packagesPath": "C:\\Users\\marck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\TakenAppV2\\obj\\",
+        "projectPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\TakenAppV2\\TakenAppV2.csproj",
+        "packagesPath": "C:\\Users\\Gideon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\TakenAppV2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\marck\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gideon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -147,13 +149,12 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\API\\API.csproj": {
-                "projectPath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\API\\API.csproj"
+              "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\API\\API.csproj": {
+                "projectPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\API\\API.csproj"
               },
-              "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
@@ -166,7 +167,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -177,13 +177,10 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.25, 3.1.25]"
-            }
-          ],
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
@@ -191,7 +188,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
         }
       }
     }
