@@ -46,6 +46,15 @@ namespace API
             return list;
         }
 
+        public void InsertTask(string subject, int priority, string status)
+        {
+            con.Open();
+            cmd = new MySqlCommand($"INSER INTO taken (Onderwerp, Prioriteit, Status, Datum) " +
+                                   $"VALUES ({subject}, {priority}, {status}, {DateTime.Now})");
+            cmd.ExecuteNonQuery();
+            con.Close();
+        }
+
         public void DeleteTask(int id)
         {
             con.Open();
@@ -56,8 +65,11 @@ namespace API
 
         public void UpdateTask(int id, string subject, int priority, string status)
         {
-
+            con.Open();
+            cmd = new MySqlCommand($"UPATE taken SET Onderwerp = {subject}, priority = {priority}" +
+                                   $"Status = {status}  WHERE Id = {id}");
+            cmd.ExecuteNonQuery();
+            con.Close();
         }
-
     }
 }

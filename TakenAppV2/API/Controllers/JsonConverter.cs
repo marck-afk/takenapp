@@ -21,5 +21,23 @@ namespace API.Controllers
             return x; 
         }
 
+        [HttpPost("Task")]
+        public void PostTask(string subject, int priority, string state)
+        {
+            database.InsertTask(subject, priority, state);
+        }
+
+        [HttpDelete("Task")]
+        public void Deletetask(int id)
+        {
+            database.DeleteTask(id);
+        }
+
+        [HttpPut("Task")]
+        public void UpdateTask(int id, string subject, int priority, string state)
+        {
+            database.UpdateTask(id, subject, priority, state);
+        }
+
     }
 }
