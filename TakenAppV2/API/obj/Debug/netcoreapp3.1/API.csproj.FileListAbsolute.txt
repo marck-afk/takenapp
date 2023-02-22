@@ -1,0 +1,5 @@
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\API\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenAppV2\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache

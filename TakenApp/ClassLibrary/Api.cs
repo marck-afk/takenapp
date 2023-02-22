@@ -6,8 +6,11 @@ namespace ClassLibrary
 {
     public class Api
     {
-        public List<Task> GetAllTasks()
+        public string GetAllTasks()
         {
+            //open connection
+            //get data
+            //convert response to JSON
             return null;
         }
 

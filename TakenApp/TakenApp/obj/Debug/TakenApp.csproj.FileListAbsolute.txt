@@ -10,3 +10,5 @@ C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp
 C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.csproj.CoreCompileInputs.cache
 C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.exe
 C:\Users\marck\OneDrive\Bureaublad\technova\C#\projecten\taken\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.pdb
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.exe
+C:\Users\Gideon\Desktop\School\Projecten_3\2_API\real\takenapp\TakenApp\TakenApp\obj\Debug\TakenApp.pdb
