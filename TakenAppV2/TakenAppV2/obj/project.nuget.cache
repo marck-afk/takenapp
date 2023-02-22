@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4J5vka6U/qY5PFNXCWaiT0X+IuIVCmd5YuLlvY/OOErMGDuOpjp9qWyeNh0/Dp+NDyxJ6n6Egc90E9UaC9qFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marck\\OneDrive\\Bureaublad\\technova\\C#\\projecten\\taken\\takenapp\\TakenAppV2\\TakenAppV2\\TakenAppV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marck\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
