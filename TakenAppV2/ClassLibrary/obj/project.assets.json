@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gideon\\Desktop\\School\\Projecten_3\\2_API\\real\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\Users\\Gideon\\Desktop\\School\\Projecten_3\\2_API\\real\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\Gideon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gideon\\Desktop\\School\\Projecten_3\\2_API\\real\\takenapp\\TakenAppV2\\ClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Gideon\\Documents\\GitHub\\takenapp\\TakenAppV2\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

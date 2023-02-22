@@ -14,6 +14,7 @@ namespace TakenAppV2
     {
         public Form1()
         {
+            //trdt234234324
             InitializeComponent();
         }
 
