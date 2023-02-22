@@ -4,5 +4,8 @@
     <Compile Update="Overview.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="UCTask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
