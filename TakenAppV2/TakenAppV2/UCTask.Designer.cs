@@ -88,6 +88,7 @@
             // 
             // LblDueDate
             // 
+            this.LblDueDate.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.LblDueDate.Location = new System.Drawing.Point(0, 92);
             this.LblDueDate.Name = "LblDueDate";
             this.LblDueDate.Size = new System.Drawing.Size(200, 50);
